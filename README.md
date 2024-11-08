@@ -51,12 +51,5 @@ This script monitors network traffic to detect and block potential threats such 
 ```
 Blocking IP: 192.168.1.100, packet rate: 45.0
 ```
-
-## License
-This project is licensed under the MIT License.
-
-## Contributors
-- Dev Gusain
-
 ## Security Note
 Ensure your whitelist and blacklist files are secure and accurate to prevent accidental blocking of critical IPs.
